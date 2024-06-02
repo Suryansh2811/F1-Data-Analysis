@@ -55,3 +55,32 @@ Tools Used:
  ● httr: Enables HTTP requests to fetch data from the Ergast API.
  ● jsonlite: Used for parsing JSON data received from the Ergast API.
  ● shiny: Allows for the creation of interactive web applications to visualize F1 data.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Workflow:
+ ❖ DataCollection:
+ ● Theproject fetches data from the Ergast API using the httr package.
+ ● Various endpoints of the Ergast API are utilized to collect race results, pit stop
+ information, circuit data, and more.
+
+ 
+ ❖ DataProcessing and Analysis:
+ ● Dataprocessing and analysis are performed using the dplyr package.
+ ● The collected data is cleaned, transformed, and analyzed to derive meaningful
+ insights.
+
+ 
+ ❖ Visualization:
+ ● Visualizations are created using the ggplot2 package.
+ ● Bar plots, scatter plots, line plots, and other visualizations are used to present the
+ analyzed data effectively.
+
+ 
+ ❖ Interactive Web Application:
+ ● The project may include an interactive web application developed using the shiny
+ package.
+ ● The Shiny framework allows users to explore and interact with visualized data
+ dynamically.
