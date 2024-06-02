@@ -21,3 +21,37 @@ Competitive Advantage Through Innovation: Discusses how advanced data analytics 
 Future Trends and Directions: Looks ahead to the integration of AI and machine learning, sustainability initiatives, and the evolving landscape of F1 analytics.
 
 Objective of Formula 1: Provides insight into F1's primary objectives, governance, regulations, and plans for the future, including significant changes planned for the 2026 season.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tools Used: 
+
+ RProgramming Language:
+ ● R serves as the primary programming language for data analysis and
+ visualization.
+ ● It provides a rich ecosystem of packages for statistical computing, data
+ manipulation, and visualization.
+
+ 
+ ❖ Integrated Development Environment (IDE):
+ ● RStudio is the preferred IDE for this project.
+ ● RStudio provides a user-friendly interface for writing, executing, and debugging
+ Rcode.
+
+ 
+ ❖ Ergast API:
+ ● The Ergast API (http://ergast.com/mrd/) is the primary data source for F1 race
+ data.
+ ● It provides historical race data, including race results, pit stops, circuit
+ information, and more.
+
+ 
+ ❖ RPackages:
+ ● ggplot2: Used for creating visually appealing and informative plots and graphs.
+ 18
+● dplyr: Provides tools for data manipulation and transformation, including
+ filtering, summarizing, and joining datasets.
+ ● httr: Enables HTTP requests to fetch data from the Ergast API.
+ ● jsonlite: Used for parsing JSON data received from the Ergast API.
+ ● shiny: Allows for the creation of interactive web applications to visualize F1 data.
