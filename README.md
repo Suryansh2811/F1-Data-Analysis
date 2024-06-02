@@ -84,3 +84,49 @@ Workflow:
  package.
  ● The Shiny framework allows users to explore and interact with visualized data
  dynamically.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Uses:
+
+
+ Data Collection:
+ ● We retrieve historical Formula 1 race data from the Ergast API, which provides a
+ comprehensive dataset covering various aspects of F1 races, including race results, driver standings,
+ constructor standings, pit stop information, circuit details, and more.
+ ● The data collection process involves making HTTP requests to specific endpoints of the
+ Ergast API using the httr package in R. These requests fetch JSON-formatted data, which is then
+ parsed using the jsonlite package for further processing.
+
+ 
+ Data Processing and Analysis:
+ ● Oncethedata is collected, we use the dplyr package for data manipulation and analysis. This
+ includes tasks such as cleaning the data, filtering relevant information, calculating total points for
+ drivers and constructors, determining the number of constructor championships won, and aggregating
+ data for further analysis.
+ ● Wecalculate aggregate statistics such as average points scored by each team in a season,
+ average finishing positions of teams, and other performance metrics to gain insights into team and
+ driver performance over time.
+
+ 
+ Visualization:
+ ● We leverage the ggplot2 package to create various visualizations, including bar plots, scatter
+ plots, line graphs, and more, to present the analyzed data visually.
+ ● Visualizations help in understanding trends, patterns, and relationships within the data,
+ making it easier to communicate insights effectively.
+
+
+Interactive Dashboard (Shiny):
+ ● We utilize the shiny package to develop an interactive web application (dashboard) that
+ provides a user-friendly interface for exploring the analyzed data.
+ ● The dashboard includes components such as tabs for different sections (e.g., constructor
+ standings, driver standings), interactive plots and tables, and user inputs for filtering and customizing
+ data views.
+ ● Userscan interact with the dashboard to view current season standings, historical data trends,
+ and compare performance across teams and drivers.
+
+ 
+ Iterative Process:
+ ● Thedata analysis and visualization process is iterative, allowing us to refine our analyses,
+ explore new insights, and improve the effectiveness of the dashboard based on user feedback and
+ emerging trends in Formula 1.
