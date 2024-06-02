@@ -130,3 +130,12 @@ Interactive Dashboard (Shiny):
  ● Thedata analysis and visualization process is iterative, allowing us to refine our analyses,
  explore new insights, and improve the effectiveness of the dashboard based on user feedback and
  emerging trends in Formula 1.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*HISTORICAL ANALYSIS*
+1. Formula 1 team performance analysis reveals trends and fluctuations over time.
+2. Top teams like Ferrari, Red Bull Racing, and Mercedes have dominated, but challenges to their supremacy have occurred.
+3. Regulatory changes, such as aerodynamic shifts and cost caps, have influenced team dominance.
+4. McLaren's resilience exemplifies the unpredictable nature of Formula 1 competition.
+5. While graphs offer insights, they may not capture the full complexity of a season, as seen in McLaren's remarkable 2023 comeback.
