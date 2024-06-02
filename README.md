@@ -133,9 +133,16 @@ Interactive Dashboard (Shiny):
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*HISTORICAL ANALYSIS*
+**HISTORICAL ANALYSIS**
 1. Formula 1 team performance analysis reveals trends and fluctuations over time.
 2. Top teams like Ferrari, Red Bull Racing, and Mercedes have dominated, but challenges to their supremacy have occurred.
 3. Regulatory changes, such as aerodynamic shifts and cost caps, have influenced team dominance.
 4. McLaren's resilience exemplifies the unpredictable nature of Formula 1 competition.
 5. While graphs offer insights, they may not capture the full complexity of a season, as seen in McLaren's remarkable 2023 comeback.
+6. Crucial Measure of Success: Besides total points, constructor championships in Formula 1 reflect team success, considering combined driver performance.
+7. Visual Representation: A pie chart illustrates the historical distribution of constructor championships won by teams from 2010 to 2024, showcasing relative dominance.
+8. Dominance and Underdogs: Mercedes, Red Bull Racing, and Ferrari often dominate, but underdog teams occasionally secure championship victories, adding excitement.
+9. Challenges Faced: Some teams, like Williams Racing, have faced financial difficulties despite past successes, leading to declines in performance.
+10. Williams Racing's Story: Despite a rich legacy and past successes, Williams Racing has struggled since 2018, consistently finishing low in standings and enduring a victory drought.
+11. Navigating Challenges: Williams Racing's journey highlights Formula 1's unpredictable nature, where teams must overcome financial, technical, and competitive hurdles.
+12. Resilience and Support: Despite struggles, Williams Racing remains respected, with fans hoping for a resurgence in future seasons.
